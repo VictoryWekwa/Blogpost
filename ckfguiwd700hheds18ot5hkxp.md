@@ -4,7 +4,8 @@ At some point, while learning, everyone gets stuck and needs to be able to under
 In this article, I will be writing about several ways to get help and keep moving when the whole learning gets frustrating and confusing.
 
 
-![4fz1nn.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1600858939772/5qWzIlbgQ.jpeg)
+
+![4gd7yf.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1601131813889/deV32KFMk.jpeg)
 
 
 ## Taking a step
