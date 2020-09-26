@@ -10,10 +10,10 @@ In this article, I will be writing about several ways to get help and keep movin
 ## Taking a step
 
 Before going ahead to ask others for help, it is important to understand the problem you are stuck on and make some personal effort in finding solutions.
-Some self questions to ask yourself in this area are:
+Some questions to ask yourself in this area are:
 
   - What am I trying to do?
-  - What results is it giving me?
+  - What result is it giving me?
 
 Answering the above questions will help to give a gateway to helping yourself before going to ask others.
 
@@ -45,10 +45,10 @@ There are some other places online to get help, some of them are:
 - [Reddit](https://reddit.com) is also a place where you can post questions and get answers and advice from others.
 
 
-These are not the only way to get help, there are several other ways to get help. You can also get help by asking questions in any community channel or group you belong to.
+These are not the only way to get help, there are other ways to get help too. You can also get help by asking questions in any community channel or group you belong to.
 
 > A popular saying has it that no one ever gets lost by asking questions.
 
 
-Thank you you for reading this  post, you can drop your comment on  other ways for programmers to get help and also like this post.
+Thank you for reading this  post, you can drop your comment on  other ways for programmers to get help and also like this post.
 
